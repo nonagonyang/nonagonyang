@@ -1,7 +1,6 @@
 # 💫About Me :
-As a Software Developer, I'm seeking for my first job. 
-I'm about to finish a Full-Stack Web Development Bootcamp. 
-Python and JavaScript are two of my favourite programming languages. 
+I am a softare engineer based in Toronto.
+Python and JavaScript are two of my favourite programming languages by far. 
 I'm excited to learn some new languages along the route.
 I develop simple and functional web apps in addition to grinding LeetCode questions to prepare for code interviews.
 
