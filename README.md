@@ -1,7 +1,12 @@
 # 💫About Me :
 I am a softare engineer based in Toronto.
-Python and JavaScript are two of my favourite programming languages by far. 
+I am passionate about comprehensively tested, well-structured, and clearly documented code. I have written programs to analyze and integrate stock market data and APIs. I also built coding projects that enable sustainability. I enjoy tasks requiring both analytical thinking and problem-solving. 
 I'm learning C# right now and am always excited to learn some new languages and tools along the route.
+
+## ⭐️Recent Projects:
+[![EvenBike](https://img.shields.io/badge/YL-EvenBike-green)](https://www.yangliu541.com) 
+[![BackTester](https://img.shields.io/badge/YL-BackTester-black)](https://github.com/nonagonyang/backtester) 
+
 
 ## 🌐Socials
 [![Portfolio](https://img.shields.io/badge/YL-Portfolio-teal)](https://www.yangliu541.com) 
