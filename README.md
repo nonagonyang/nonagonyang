@@ -4,8 +4,8 @@ I am passionate about comprehensively tested, well-structured, and clearly docum
 I'm learning C# right now and am always excited to learn some new languages and tools along the route.
 
 ## ⭐️Recent Projects:
-[![EvenBike](https://img.shields.io/badge/YL-EvenBike-green)](https://www.yangliu541.com) 
-[![BackTester](https://img.shields.io/badge/YL-BackTester-black)](https://github.com/nonagonyang/backtester) 
+[![EvenBike](https://img.shields.io/badge/EB-EvenBike-green)]([https://www.yangliu541.com](https://github.com/nonagonyang/evenbike_backend)) 
+[![BackTester](https://img.shields.io/badge/BT-BackTester-black)](https://github.com/nonagonyang/backtester) 
 
 
 ## 🌐Socials
