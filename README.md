@@ -4,7 +4,7 @@ Python and JavaScript are two of my favourite programming languages by far.
 I'm learning C# right now and am always excited to learn some new languages and tools along the route.
 
 ## 🌐Socials
-[![Portfolio](https://img.shields.io/badge/<YL>-<Portfolio>-<teal>)](https://www.yangliu541.com) 
+[![Portfolio](https://img.shields.io/badge/YL-Portfolio-teal)](https://www.yangliu541.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yangliu541) 
 
 # 💻Tech Stack
