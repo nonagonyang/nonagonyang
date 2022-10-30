@@ -1,8 +1,7 @@
 # 💫About Me :
 I am a softare engineer based in Toronto.
 Python and JavaScript are two of my favourite programming languages by far. 
-I'm excited to learn some new languages along the route.
-I develop simple and functional web apps in addition to grinding LeetCode questions to prepare for code interviews.
+I'm learning C# right now and am always excited to learn some new languages and tools along the route.
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/U2HdY5z6) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yangliu541) 
